@@ -17,9 +17,8 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+![](https://i.imgur.com/CGstR65.gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
 
 ### Notes
 It was tough to use pods since i never really used them. It was tidous, but in the end, it all worked out :)
